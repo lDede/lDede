@@ -2,7 +2,7 @@
  👋 Olá, sou o André Valentim!
 </p>
 <p align="left">
- 🎓 Sou estudante de Sistemas de Informação e Auxiliar Técnico de TI.
+ 🎓 Sou bacharel em Sistemas de Informação e Assistente Técnico de Tecnologia da Informação. Utilizo este espaço para publicar práticas de programação. :)
 </p>
 <p align="left">
   🤹 Habilidades: MySQL, C#, HTML, CSS
